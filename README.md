@@ -13,9 +13,10 @@
 | INTAKE_CONDITION | VARCHAR(N)| FALSE |
 | NAME|VARCHAR(N) | TRUE| 
 | SEX_UPON_INTAKE | VARCHAR(N) | FALSE | 
-## 이름이 없는 동물의 아이디
+## * 이름이 없는 동물의 아이디
 <img width="533" alt="image" src="https://user-images.githubusercontent.com/102028778/160147125-32d5e24b-b244-412c-b214-3bc6faba3160.png">
-
+### 설명
+### 
 
 ## 이름이 있는 동물의 아이디
 
